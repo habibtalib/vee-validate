@@ -1,5 +1,5 @@
 module.exports = {
-  // setupTestFrameworkScriptFile: '<rootDir>/tests/setup.js',
+  setupTestFrameworkScriptFile: '<rootDir>/tests/setup.js',
   testMatch: [
     '**/tests/**/*.js'
   ],
